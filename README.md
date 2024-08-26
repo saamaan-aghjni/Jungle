@@ -17,7 +17,7 @@ This project aims at implementing this game using bitboards and smart NPC.
 Here's the list of Todo-Tasks that  have to be completed finally.
 
 - [X] Refactoring the codebase.
-- [] Implementation of the Minimax algorithm with Alpha-Beta-Pruning.
-- []  A better GUI-Design. 
-- [] Better optimised playtime.
-- [] The ability to post scoreboards on one of the online free scoreboard services.
+- [ ] Implementation of the Minimax algorithm with Alpha-Beta-Pruning.
+- [ ]  A better GUI-Design. 
+- [ ] Better optimised playtime.
+- [ ] The ability to post scoreboards on one of the online free scoreboard services.
